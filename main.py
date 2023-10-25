@@ -1,4 +1,4 @@
-
+#by Cristian Garcia
 def decode(pw):
     decoded_password=""
     for digit in pw:
